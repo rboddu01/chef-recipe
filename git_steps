@@ -1,0 +1,27 @@
+  231  git init .
+  233  git add . 
+  234  git commit -m "First recipe commit"  
+  235  git remote add origin https://ravipboddu@bitbucket.org/ravipboddu/chef-repo.git 
+  236  git push -u origin master 
+ 
+
+
+  707  git init .
+  709  git add Vagrantfile 
+  710  git commit -m "Vagrant for test box"
+  711  git remote add origin https://github.com/rboddu01/chef-recipe.git
+  712  git push -u origin master 
+  
+
+  713  git add Vagrant_old_1
+  714  git commit -m "Vagrant first file just bckp not using "
+  718  git remote add origin https://ravipboddu@bitbucket.org/ravipboddu/chef-repo.git
+  719  git push -u origin master 
+  
+
+  721  git commit -m "Vagrant file second_bckp"
+  723  git add Vagrant_old_2 
+  724  git commit -m "Vagrant file second_bckp"
+  725  git push -u 
+  726  history | grep -i git 
+ATL-1796-osx:vagrant rboddu$ 
