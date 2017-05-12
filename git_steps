@@ -24,4 +24,8 @@
   724  git commit -m "Vagrant file second_bckp"
   725  git push -u 
   726  history | grep -i git 
+
+  728  git add git_steps 
+  729  git commit -m "Ading git CMD's"
+  730  git push
 ATL-1796-osx:vagrant rboddu$ 
